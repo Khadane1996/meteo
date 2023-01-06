@@ -1,0 +1,12 @@
+
+-Démarrer : npx expo start  
+
+<>
+
+npm install axios
+npm i date-fns
+npm i expo-location
+
+    "axios": "^0.21.1",
+    "date-fns": "^2.23.0",
+    "expo-location": "~12.1.3"
